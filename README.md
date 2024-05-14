@@ -1,6 +1,6 @@
 # Ransomware
 
-The Project is simple Ransomeware which is built using python which can encrypt the folder that the malware_encrypt.py file is located.
+The Project is a simple Ransomeware which is built using python which can encrypt the directory that the malware_encrypt.py file is located.
 
 The key that is used to encrypt the files are stored as thekey.key in the same file.
 
